@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`verifies card displays JoeyHoellerich GitHub information 1`] = `
+<div
+  className="App"
+>
+  <div
+    style={
+      Object {
+        "margin": "30px",
+      }
+    }
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1b3ttu2-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body1 css-17tliui-MuiTypography-root"
+        >
+          JoeyHoellerich
+        </p>
+        <div>
+          <img
+            alt="profile"
+            src="profilePic.png"
+            style={
+              Object {
+                "height": "140",
+                "width": "140",
+              }
+            }
+          />
+        </div>
+        <p
+          className="MuiTypography-root MuiTypography-body2 css-e784if-MuiTypography-root"
+        >
+          JoeyHoellerich is a cool guy that has hobbies and interests just like most cool guys.
+        </p>
+      </div>
+      <div
+        className="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+      >
+        <a
+          className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+          href="https://github.com/JoeyHoellerich"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+        >
+          Check Him Out!
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
